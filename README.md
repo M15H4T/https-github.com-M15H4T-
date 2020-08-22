@@ -1,4 +1,4 @@
-# https-github.com-M15H4T-
+# https-github.com-M15H4T-TKG.git
 apt update
 apt upgrade
 apt install git
